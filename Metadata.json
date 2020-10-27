@@ -1,0 +1,20 @@
+{
+    "Author": "cmendibl3",
+    "ContentSize": 4806,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-a-service-principal-and-write-required-parameters-to-a-.azureauth-file/master/New-ServicePrincipalAsReader.ps1",
+    "DownloadCount": 688,
+    "Id": "Create-a-Service-Principal-179d0b36",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 227,
+    "RaterCount": 3,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-8-2T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "New-ServicePrincipalAsReader is a PowerShell script to create a Read only Service Principal in Azure.The script will write a file ([subscriptionName].azureauth) with all the parameters needed to use the Microsoft.Azure.Management.Fluent lib.",
+    "Title": "Create a Service Principal and write required parameters to a .azureauth file",
+    "UpdatedDate": "2017-8-2T00:00:00",
+    "Url": "https://github.com/azureautomation/create-a-service-principal-and-write-required-parameters-to-a-.azureauth-file",
+    "UserTags": "Azure, Powershell, Powershell Script"
+}
